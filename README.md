@@ -2,7 +2,7 @@
 - 👀 I’m interested in web Development , Programming , Software Engineering.
 - 🌱 I’m currently learning Applied Computing (Software development)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me adielkish@gmail.com
+- 📫 How to reach me thairuadiel@gmail.com
 
 <!---
 Adiel-Thairu/Adiel-Thairu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
