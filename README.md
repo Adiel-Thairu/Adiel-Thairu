@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **python, javascript, css ,html**
 
-- 📫 How to reach me **thairuadel@gmail.com**
+- 📫 How to reach me **thairuadiel@gmail.com**
 
 - ⚡ Fun fact **i think i'm funny**
 
