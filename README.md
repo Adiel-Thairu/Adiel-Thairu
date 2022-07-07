@@ -80,6 +80,12 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
  
+<a href= (https://user-images.githubusercontent.com/81063456/160662567-0d63ae41-286e-40a0-9d46-ce3f4b754146.png)](https://www.facebook.com/durgeshsoniblogger)
+[![3](https://user-images.githubusercontent.com/81063456/160662362-bee2e57d-d47e-4f2d-b481-72b9aced24a5.png)](https://www.instagram.com/durgeshsoni08)
+[![5](https://user-images.githubusercontent.com/81063456/160662370-d101e131-faf3-4716-8a24-7b2fa5d58284.png)](https://twitter.com/durgeshsoni08)
+[![6](https://user-images.githubusercontent.com/81063456/160662372-9c743885-ddc8-4dda-9f49-01250900b8f6.png)](https://www.linkedin.com/in/durgeshsoni08/)
+[![7](https://user-images.githubusercontent.com/81063456/160662378-2fd26f8c-0fa6-44b0-9afc-6c1c71a3bc9b.png)](mailto:hello@durgeshsoni.com)
+ 
  </p>
 <a href="https://github.com/Adiel-Thaitu">
   <img align="middle" width="100%" src = "bottom-footer.svg">
