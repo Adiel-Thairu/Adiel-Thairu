@@ -87,10 +87,10 @@
   </a>
   <a href="https://discord.com/users/766592972040699925">
     <code>
-      <img height="90" width="90" src="https://github.com/a3X3k/-Random-/blob/main/D.svg">
+      <img height="90" width="90" src="#">
     </code>
   </a>
-    <a href="https://www.linkedin.com/in/a3x3k/">
+    <a href="https://www.linkedin.com/in/adiel-thairu-37a26117b/">
     <code>
       <img height="90" width="90" src="https://github.com/a3X3k/-Random-/blob/main/L.svg">
     </code>
