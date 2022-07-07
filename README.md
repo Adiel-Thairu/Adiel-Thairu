@@ -92,7 +92,7 @@
   </a>
     <a href="https://www.linkedin.com/in/adiel-thairu-37a26117b/">
     <code>
-      <img height="90" width="90" src="https://github.com/Adiel-Thairu/-Random--/L.svg">
+      <img height="90" width="90" src="https://github.com/Adiel-Thairu/Adiel-Thairu/tree/main/-Random--/L.svg">
     </code>
   </a>
     <a href="https://www.instagram.com/_t.h.a.i.r.u/">
