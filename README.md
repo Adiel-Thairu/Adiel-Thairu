@@ -70,7 +70,7 @@
 ###  🤝🏻 &nbsp;`Connect with Me`
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://twitter.com/adielthairu"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://twitter.com/adielthairu"><img width="32px" alt="Twitter" title="Twitter" src="https://user-images.githubusercontent.com/81063456/160662370-d101e131-faf3-4716-8a24-7b2fa5d58284.png/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://instagram.com/_t.h.a.i.r.u" alt="Instagram"><img width="32px" src="https://cdn.shopify.com/s/files/1/0622/5916/7477/files/Hot_Pink_Social_icon-instagram.png?v=1642369322"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -81,8 +81,8 @@
   <a href="https://www.instagram.com/_t.h.a.i.r.u/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://user-images.githubusercontent.com/81063456/160662362-bee2e57d-d47e-4f2d-b481-72b9aced24a5.png"/></a>
  
 
-[![3](https://user-images.githubusercontent.com/81063456/160662362-bee2e57d-d47e-4f2d-b481-72b9aced24a5.png)](https://www.instagram.com/durgeshsoni08)
-[![5](https://user-images.githubusercontent.com/81063456/160662370-d101e131-faf3-4716-8a24-7b2fa5d58284.png)](https://twitter.com/durgeshsoni08)
+
+
 [![6](https://user-images.githubusercontent.com/81063456/160662372-9c743885-ddc8-4dda-9f49-01250900b8f6.png)](https://www.linkedin.com/in/durgeshsoni08/)
 [![7](https://user-images.githubusercontent.com/81063456/160662378-2fd26f8c-0fa6-44b0-9afc-6c1c71a3bc9b.png)](mailto:hello@durgeshsoni.com)
  
