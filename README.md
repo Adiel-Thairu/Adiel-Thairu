@@ -79,6 +79,11 @@
   <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="http://i.imgur.com/0o48UoR.png (github icon with padding)"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+ 
+ </p>
+<a href="https://github.com/Adiel-Thaitu">
+  <img align="middle" width="100%" src = "bottom-footer.svg">
+</a>
 
 <p align=center>                           
   <a href="https://github.com/Adiel-Thairu"><img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=sabesansathananthan.sabesansathananthan" alt="Visitors"></a>     
