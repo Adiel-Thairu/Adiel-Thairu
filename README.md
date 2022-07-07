@@ -63,7 +63,7 @@
 ### 📊&nbsp; `My Contribution Graph`
 <p>
 <a href="https://github.com/Adiel-Thairu">
- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Adiel-Thairu&custom_title=Soumadip%20Das's%20Contribution%20Graph&theme=gruvbox&hide_border=true&area=true"/>
+ <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Adiel-Thairu&custom_title=Adiel%20Thairu's%20Contribution%20Graph&theme=gruvbox&hide_border=true&area=true"/>
 </a>
 </p>
 
