@@ -74,7 +74,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://instagram.com/_t.h.a.i.r.u" alt="Instagram"><img width="32px" src="https://cdn.shopify.com/s/files/1/0622/5916/7477/files/Hot_Pink_Social_icon-instagram.png?v=1642369322"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://adielthairu.vercel.app"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://www.linkedin.com/in/durgeshsoni08"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://user-images.githubusercontent.com/81063456/160662372-9c743885-ddc8-4dda-9f49-01250900b8f6.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="(https://user-images.githubusercontent.com/81063456/160662362-bee2e57d-d47e-4f2d-b481-72b9aced24a5.png)](https://www.instagram.com/durgeshsoni08)"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="http://i.imgur.com/0o48UoR.png (github icon with padding)"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
