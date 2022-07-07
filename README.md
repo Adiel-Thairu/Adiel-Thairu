@@ -14,7 +14,7 @@
 
 - 🌱 &nbsp;I am passionate about App and Web development, have explored Android Development a bit.
 - 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
-- 🔭 I’m currently working on [event scheduler app](https://github.com/Adiel-Thairu/Ecommerce-Website) 
+- 🔭 I’m currently working on [event scheduler app](https://github.com/pranjal198/event_scheduler) 
 - 🌱 I’ve studied Software development and currently waiting for my graduation.
 - 👨‍💻 All of my projects are available at [here](https://github.com/Adiel-Thairu?tab=repositories)
 - ✨ Here's my <a href = "https://profile-summary-for-github.com/user/Adiel-Thairu" />Profile Summary</a> have a look!
@@ -72,7 +72,7 @@
 <p align="center">
   <a href="https://twitter.com/adielthairu"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://instagram.com/_t.h.a.i.r.u" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://instagram.com/_t.h.a.i.r.u" alt="Instagram"><img width="32px" src="https://i.imgur.com/m1PI6Ra.gif"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://adielthairu.vercel.app"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
