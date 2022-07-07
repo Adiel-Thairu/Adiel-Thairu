@@ -1,5 +1,3 @@
-<!--  # <h1 align="center">Hi there 👋, my name is Adiel-Thairu</h1>
-## <h2 align="center"></h2> -->
 <h1 align="center">Hello👋🏻, I am</br><a href="https://github.com/Adiel-Thairu">
 <img src = "soumadipdas.svg"/></a></br></h1>
 
