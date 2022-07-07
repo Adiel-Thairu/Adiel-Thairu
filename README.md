@@ -73,17 +73,17 @@
   
   <h2>
   Connect With Me <a target="_blank">
-  <img src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/Handshake.gif" height="32px" style="max-width:100%;">
+  <img src="https://github.com/Adiel-Thairu/Adiel-Thairu/blob/main/-Random--/Handshake.gif" height="32px" style="max-width:100%;">
   </a>
 </h2>
 
 <p align="center">
   <br>
   <a href="https://twitter.com/adielthairu" target="_blank">
-    <code><img height="90" width="90" src="https://github.com/a3X3k/-Random-/blob/main/T.svg"/></code>
+    <code><img height="90" width="90" src="https://github.com/Adiel-Thairu/Adiel-Thairu/blob/main/-Random--/T.svg"/></code>
   </a>
     <a href="https://github.com/Adiel-Thairu">
-    <code><img height="90" width="90" src="https://github.com/a3X3k/-Random-/blob/main/G.svg"></code>  
+    <code><img height="90" width="90" src="https://github.com/Adiel-Thairu/Adiel-Thairu/blob/main/-Random--/G.svg"></code>  
   </a>
   <a href="https://discord.com/users/766592972040699925">
     <code>
@@ -97,7 +97,7 @@
   </a>
     <a href="https://www.instagram.com/_t.h.a.i.r.u/">
     <code>
-      <img height="90" width="90" src="https://github.com/a3X3k/-Random-/blob/main/I.svg">
+      <img height="90" width="90" src="https://github.com/Adiel-Thairu/Adiel-Thairu/blob/main/-Random--/I.svg">
     </code>
   </a>
 </p>
