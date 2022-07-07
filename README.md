@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋🏻, I am</br><a href="https://github.com/Adiel-Thairu">
-<img src = "soumadipdas.svg"/></a></br></h1>
+<img src = "adiel-thairu.svg"/></a></br></h1>
 
 <!-- 
 ### Hi there 👋
@@ -56,21 +56,21 @@
 <p display="flex" width="100%">
 <a href="https://github.com/Adiel-Thairu">
   <img align="left" height="150" src="https://github-readme-stats.vercel.app/api?username=Adiel-Thairu&show_icons=true&custom_title=Github%20Stats&theme=gruvbox&hide_border=true&area=true" />
-  <img align="center" height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Soumadipdas18&custom_title=Most%20Used%20Languages&theme=gruvbox&hide_border=true&area=true&layout=compact" />
+  <img align="center" height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adiel-Thairu&custom_title=Most%20Used%20Languages&theme=gruvbox&hide_border=true&area=true&layout=compact" />
   </a>
 </p>
 
 ### 📊&nbsp; `My Contribution Graph`
 <p>
 <a href="https://github.com/Adiel-Thairu">
- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=soumadipdas18&custom_title=Soumadip%20Das's%20Contribution%20Graph&theme=gruvbox&hide_border=true&area=true"/>
+ <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Adiel-Thairu&custom_title=Soumadip%20Das's%20Contribution%20Graph&theme=gruvbox&hide_border=true&area=true"/>
 </a>
 </p>
 
 ###  🤝🏻 &nbsp;`Connect with Me`
 <p>
-<a href="https://soumadipdas.herokuapp.com"><img src="https://img.shields.io/badge/-soumadipdas.herokuapp.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/soumadip-das-6031631b9"><img src="https://img.shields.io/badge/-Soumadip%20Das-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://adielthairu.vercel.app"><img src="https://img.shields.io/badge/-adielthairu.vercel.app-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/adiel-thairu-37a26117b"><img src="https://img.shields.io/badge/-Soumadip%20Das-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:thairuadiel@gmail.com"><img src="https://img.shields.io/badge/-thairuadiel@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
