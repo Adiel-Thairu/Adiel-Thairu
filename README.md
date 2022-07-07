@@ -76,7 +76,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://adielthairu.vercel.app"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="http://i.imgur.com/0o48UoR.png (github icon with padding)"/></a>
+  <a href="(https://user-images.githubusercontent.com/81063456/160662362-bee2e57d-d47e-4f2d-b481-72b9aced24a5.png)](https://www.instagram.com/durgeshsoni08)"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="http://i.imgur.com/0o48UoR.png (github icon with padding)"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
  
