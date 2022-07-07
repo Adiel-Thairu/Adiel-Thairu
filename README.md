@@ -14,7 +14,7 @@
 
 - 🌱 &nbsp;I am passionate about App and Web development, have explored Android Development a bit.
 - 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
-- 🔭 I’m currently working on [event scheduler app](https://github.com/pranjal198/event_scheduler) 
+- 🔭 I’m currently working on [event scheduler app](https://github.com/Adiel-Thairu/Ecommerce-Website) 
 - 🌱 I’ve studied Software development and currently waiting for my graduation.
 - 👨‍💻 All of my projects are available at [here](https://github.com/Adiel-Thairu?tab=repositories)
 - ✨ Here's my <a href = "https://profile-summary-for-github.com/user/Adiel-Thairu" />Profile Summary</a> have a look!
