@@ -1,5 +1,5 @@
-<h1 align="center">Hello👋🏻, I am</br><a href="https://github.com/Adiel-Thairu">
-<img src = "adiel-thairu.svg"/></a></br></h1>
+<h1 align="center">Hello👋🏻, I am</br>ADIEL THAIRU<a href="https://github.com/Adiel-Thairu">
+</br></h1>
 
 <!-- 
 ### Hi there 👋
