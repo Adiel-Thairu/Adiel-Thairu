@@ -85,9 +85,9 @@
     <a href="https://github.com/Adiel-Thairu">
     <code><img height="90" width="90" src="https://github.com/Adiel-Thairu/Adiel-Thairu/blob/main/-Random--/G.svg"></code>  
   </a>
-  <a href="https://discord.com/users/766592972040699925">
+  <a href="https://discord.com/users/#">
     <code>
-      <img height="90" width="90" src="#">
+      <img height="90" width="90" src="https://github.com/Adiel-Thairu/Adiel-Thairu/blob/main/-Random--/D.svg">
     </code>
   </a>
     <a href="https://www.linkedin.com/in/adiel-thairu-37a26117b/">
