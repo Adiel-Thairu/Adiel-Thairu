@@ -71,12 +71,38 @@
 <!-- Social icons section -->
 <p align="center">
   
-  [![1](https://user-images.githubusercontent.com/81063456/160662567-0d63ae41-286e-40a0-9d46-ce3f4b754146.png)](https://www.facebook.com/durgeshsoniblogger)
-  [![3](https://user-images.githubusercontent.com/81063456/160662362-bee2e57d-d47e-4f2d-b481-72b9aced24a5.png)](https://www.instagram.com/durgeshsoni08)
-  [![5](https://user-images.githubusercontent.com/81063456/160662370-d101e131-faf3-4716-8a24-7b2fa5d58284.png)](https://twitter.com/durgeshsoni08)
-  [![6](https://user-images.githubusercontent.com/81063456/160662372-9c743885-ddc8-4dda-9f49-01250900b8f6.png)](https://www.linkedin.com/in/durgeshsoni08/)
-  [![7](https://user-images.githubusercontent.com/81063456/160662378-2fd26f8c-0fa6-44b0-9afc-6c1c71a3bc9b.png)](mailto:hello@durgeshsoni.com)
- 
+  <h2>
+  Connect With Me <a target="_blank">
+  <img src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/Handshake.gif" height="32px" style="max-width:100%;">
+  </a>
+</h2>
+
+<p align="center">
+  <br>
+  <a href="https://twitter.com/adielthairu" target="_blank">
+    <code><img height="90" width="90" src="https://github.com/a3X3k/-Random-/blob/main/T.svg"/></code>
+  </a>
+    <a href="https://github.com/Adiel-Thairu">
+    <code><img height="90" width="90" src="https://github.com/a3X3k/-Random-/blob/main/G.svg"></code>  
+  </a>
+  <a href="https://discord.com/users/766592972040699925">
+    <code>
+      <img height="90" width="90" src="https://github.com/a3X3k/-Random-/blob/main/D.svg">
+    </code>
+  </a>
+    <a href="https://www.linkedin.com/in/a3x3k/">
+    <code>
+      <img height="90" width="90" src="https://github.com/a3X3k/-Random-/blob/main/L.svg">
+    </code>
+  </a>
+    <a href="https://www.instagram.com/_t.h.a.i.r.u/">
+    <code>
+      <img height="90" width="90" src="https://github.com/a3X3k/-Random-/blob/main/I.svg">
+    </code>
+  </a>
+</p>
+
+<br/>
 
 
 
