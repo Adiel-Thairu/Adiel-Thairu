@@ -72,7 +72,7 @@
 <p align="center">
   <a href="https://twitter.com/adielthairu"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://instagram.com/_t.h.a.i.r.u" alt="Instagram"><img width="32px" src="https://i.imgur.com/m1PI6Ra.gif"/></a>
+  <a href="https://instagram.com/_t.h.a.i.r.u" alt="Instagram"><img width="32px" src="https://popularpittsburgh.com/darkhistory/"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://adielthairu.vercel.app"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
