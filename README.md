@@ -68,11 +68,17 @@
 </p>
 
 ###  🤝🏻 &nbsp;`Connect with Me`
-<p>
-<a href="https://adielthairu.vercel.app"><img src="https://img.shields.io/badge/-adielthairu.vercel.app-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/adiel-thairu-37a26117b"><img src="https://img.shields.io/badge/-Adiel%20Thairu-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:thairuadiel@gmail.com"><img src="https://img.shields.io/badge/-thairuadiel@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://twitter.com/adielthairu"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://instagram.com/_t.h.a.i.r.u" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://adielthairu.vercel.app"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 <a href="https://github.com/Adiel-Thairu">
   <img align="middle" width="100%" src = "bottom-footer.svg">
